@@ -1,5 +1,7 @@
 # Awesome GRE Materials [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+The primary goal of this repository is to put all the scattered GRE related material under one list. Please feel free to provide any suggestions either through the pull-request or an issue.  
+
 ## Contents
 * [Blogs](#blogs)
 * [Apps](#apps)
