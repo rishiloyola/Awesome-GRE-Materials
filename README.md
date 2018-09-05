@@ -23,6 +23,7 @@ The primary goal of this repository is to put all the scattered GRE related mate
 
 
 ## Books
+* [Magoosh's complete guide to the GRE](https://gre.magoosh.com/gre-ebook?utm_source=greblog&utm_medium=blog&utm_campaign=greebook&utm_term=inline)
 
 
 ## Quora Answers
