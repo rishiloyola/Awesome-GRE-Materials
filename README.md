@@ -31,7 +31,9 @@ The primary goal of this repository is to put all the scattered GRE related mate
 * [Which book and how should I prepare for GRE vocabulary?](https://www.quora.com/Which-book-and-how-should-I-prepare-for-GRE-vocabulary)
 * [Which one is better to prepare for GRE vocabulary...Barron's 333,Barron's 800, Magoosh vocab, Manhattan 500 or majortest?](https://www.quora.com/Which-one-is-better-to-prepare-for-GRE-vocabulary-Barrons-333-Barrons-800-Magoosh-vocab-Manhattan-500-or-majortest-Please-do-reply)
 
+
 ## Online Courses
+* [Barron's 800 Essential Word List - GRE](https://www.memrise.com/course/121215/barrons-800-essential-word-list-gre/)
 
 
 ## Practice Tests
