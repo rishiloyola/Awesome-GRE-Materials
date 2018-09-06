@@ -28,7 +28,8 @@ The primary goal of this repository is to put all the scattered GRE related mate
 
 ## Quora Answers
 * [Is one month enough for GRE preparation? I have a bachelor's degree in English. What are the best strategies to follow (considering the few amount of time left)?](https://www.quora.com/Is-one-month-enough-for-GRE-preparation-I-have-a-bachelors-degree-in-English-What-are-the-best-strategies-to-follow-considering-the-few-amount-of-time-left)
-
+* [Which book and how should I prepare for GRE vocabulary?](https://www.quora.com/Which-book-and-how-should-I-prepare-for-GRE-vocabulary)
+* [Which one is better to prepare for GRE vocabulary...Barron's 333,Barron's 800, Magoosh vocab, Manhattan 500 or majortest?](https://www.quora.com/Which-one-is-better-to-prepare-for-GRE-vocabulary-Barrons-333-Barrons-800-Magoosh-vocab-Manhattan-500-or-majortest-Please-do-reply)
 
 ## Online Courses
 
