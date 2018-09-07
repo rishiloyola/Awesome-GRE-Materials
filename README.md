@@ -13,6 +13,7 @@ The primary goal of this repository is to put all the scattered GRE related mate
 
 ## Blogs
 * [Prepare for GRE in a month](https://alpharohit.wordpress.com/2015/06/20/prepare-for-gre-in-a-month/)
+* [GRE Verbal Sections: Question Type Breakdown](https://magoosh.com/gre/2012/gre-verbal-sections-question-type-breakdown/)
 
 
 ## Apps
