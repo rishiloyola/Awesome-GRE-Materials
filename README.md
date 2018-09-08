@@ -15,6 +15,7 @@ The primary goal of this repository is to put all the scattered GRE related mate
 * [Prepare for GRE in a month](https://alpharohit.wordpress.com/2015/06/20/prepare-for-gre-in-a-month/)
 * [GRE Verbal Sections: Question Type Breakdown](https://magoosh.com/gre/2012/gre-verbal-sections-question-type-breakdown/)
 * [ETS - GRE Test Structure](https://www.ets.org/gre/institutions/about/general/)
+* [Google drive: Useful links for GRE, TOEFL,IELTS preparation](https://medium.com/@fairgandhi/google-drive-useful-links-for-gre-toefl-ielts-preparation-22fe10d926ca)
 
 
 ## Apps
