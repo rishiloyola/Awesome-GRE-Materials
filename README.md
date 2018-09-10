@@ -28,6 +28,7 @@ The primary goal of this repository is to put all the scattered GRE related mate
 ## Books
 * [Magoosh's complete guide to the GRE](https://gre.magoosh.com/gre-ebook?utm_source=greblog&utm_medium=blog&utm_campaign=greebook&utm_term=inline)
 * [Big Book 27 tests](https://drive.google.com/drive/u/0/folders/0Bwy2T5wsuholfmtwMEJDN1JLZXd6UmhEd1dXWW10cTYwV3d4dkJ3UHF5czNVeThMaWg4WWc)
+* [Magoosh gre 1000 words](https://s3.amazonaws.com/magoosh.resources/magoosh-gre-1000-words_oct01.pdf)
 
 
 ## Quora Answers
