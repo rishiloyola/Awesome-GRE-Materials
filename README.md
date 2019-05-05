@@ -24,6 +24,8 @@ The primary goal of this repository is to put all the scattered GRE related mate
 * [GRE Prep & Practice by Magoosh](https://play.google.com/store/apps/details?id=com.magoosh.gre&hl=en)
 * [Magoosh English Grammar Practice](https://play.google.com/store/apps/details?id=com.magoosh.gre.flashcards.grammar)
 * [Volt](https://play.google.com/store/apps/details?id=com.rrpublication.volt.volt&hl=en_IN)
+* [Quizlet](https://quizlet.com/)`Note: Find already available GRE flashcards`
+* [Memrise](https://www.memrise.com) `Note: Find already available GRE flashcards`
 
 
 ## Books
