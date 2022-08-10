@@ -6,6 +6,7 @@ The primary goal of this repository is to put all the scattered GRE related mate
 * [Blogs](#blogs)
 * [Apps](#apps)
 * [Books](#books)
+* [Video Lectures](#video-lectures)
 * [Quora Answers](#quora-answers)
 * [Online Courses](#online-courses)
 * [Practice Tests](#practice-tests)
@@ -35,6 +36,8 @@ The primary goal of this repository is to put all the scattered GRE related mate
 * [Magoosh Vocab Flashcard eBook](http://magoosh.resources.s3.amazonaws.com/Magoosh_Vocab_Flashcard_eBook.pdf)
 * [Google Drive](https://drive.google.com/open?id=0B9TrwKxvL7P3fmFERHl3M0VQTV9DRGNXaEMzVUFhQUh0d3daYzJweE13emZBbU9GYktCM0E)
 
+## Video Lectures
+* [Video lecture series covering all the topics](https://drive.google.com/drive/u/0/folders/113tOVci4QipTHgUq6XwdJM6xJ_HV-SOW)
 
 ## Quora Answers
 * [Is one month enough for GRE preparation? I have a bachelor's degree in English. What are the best strategies to follow (considering the few amount of time left)?](https://www.quora.com/Is-one-month-enough-for-GRE-preparation-I-have-a-bachelors-degree-in-English-What-are-the-best-strategies-to-follow-considering-the-few-amount-of-time-left)
